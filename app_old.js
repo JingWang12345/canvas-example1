@@ -21,3 +21,4 @@ for (let i = 0; i < 100; i++) {
    // ctx.strokeStyle = 'white'
    // ctx.strokeRect(originx, originy, width, height);
 }
+
